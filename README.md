@@ -89,7 +89,7 @@ Target Variable
 
 ## Observations
 
-## 📌 Model Performance Observations
+## Model Performance Observations
 
 | ML Model                     | Observation about Model Performance |
 |------------------------------|-------------------------------------|
